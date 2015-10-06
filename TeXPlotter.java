@@ -2,7 +2,6 @@ package tex;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.io.UnsupportedEncodingException;
 import java.util.Vector;
 
 public class TeXPlotter {
